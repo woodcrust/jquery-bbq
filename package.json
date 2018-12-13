@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qchouleur/jquery-bbq.git"
+    "url": "git+https://github.com/woodcrust/jquery-bbq.git"
   },
   "keywords": [
     "jquery2",
@@ -23,9 +23,9 @@
   "author": "Ben Alman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qchouleur/jquery-bbq/issues"
+    "url": "https://github.com/woodcrust/jquery-bbq/issues"
   },
-  "homepage": "https://github.com/qchouleur/jquery-bbq#readme",
+  "homepage": "https://github.com/woodcrust/jquery-bbq#readme",
   "dependencies": {
     "jquery": ">=2.2.3"
   }
